@@ -1,0 +1,21 @@
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Усачева\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Новая папка\Работа новая\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
